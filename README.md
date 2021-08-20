@@ -1,6 +1,6 @@
 ## About me👋
 
-I currently work as a full-time front-end engineer with full remotely and I also have a business in Japan, a web service I created myself. (https://labelmake.jp/)
+I currently work as a full-time front-end engineer with full remotely and I also have a business in Japan, a web service I created. (https://labelmake.jp/)
 
 Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/hand-dot/). I'm always happy to talk, answer questions, or discuss new opportunities.
 
