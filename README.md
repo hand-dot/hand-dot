@@ -1,16 +1,26 @@
-### Hi there 👋
+## About me👋
 
-<!--
-**hand-dot/hand-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently work as a full-time front-end engineer with full remotely and I also have a business in Japan, a web service I created myself. (https://labelmake.jp/)
 
-Here are some ideas to get you started:
+Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/hand-dot/). I'm always happy to talk, answer questions, or discuss new opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Love
+- Personal Development
+- OSS (I maintain [labelmake](https://github.com/hand-dot/labelmake). It is PDF generation library.)
+
+In particular, I am very grateful for the [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) and [daybrush/moveable](https://github.com/daybrush/moveable) libraries, so that I support financially(but it is small amount🤫). I couldn't set up my own business them without their contribution.
+
+
+### Field of expertise
+- APIs, Jamstack, React, TypeScript, JavaScript optimization, Node.js, SEO.
+
+### Learning
+- English, Marketing, Golang, etc.
+
+## Summary📊
+
+[![hand-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=hand-dot&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/hand-dot/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hand-dot&layout=compact&theme=tokyonight)](https://github.com/hand-dot/)
+
+
+
