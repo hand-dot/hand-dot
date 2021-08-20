@@ -5,7 +5,7 @@ I currently work as a full-time front-end engineer with full remotely and I also
 Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/hand-dot/). I'm always happy to talk, answer questions, or discuss new opportunities.
 
 ### Love
-- Personal Development
+- Personal Development (web tools, web services.)
 - OSS (I maintain [labelmake](https://github.com/hand-dot/labelmake). It is PDF generation library.)
 
 In particular, I am very grateful for the [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) and [daybrush/moveable](https://github.com/daybrush/moveable) libraries, so that I support financially. I wasn't to set up my own business without their contribution.
