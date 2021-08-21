@@ -6,6 +6,7 @@ Please feel free to reach out via email or connect with me on [LinkedIn](https:/
 
 ### Love
 - Personal Development (web tools, web services.)
+- Service development from scratch
 - OSS (I maintain [labelmake](https://github.com/hand-dot/labelmake). It is PDF generation library.)
 
 In particular, I am very grateful for the [Hopding/pdf-lib](https://github.com/Hopding/pdf-lib) and [daybrush/moveable](https://github.com/daybrush/moveable) libraries, so that I support financially. I wasn't to set up my own business without their contribution.
