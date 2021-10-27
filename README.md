@@ -1,7 +1,7 @@
 ## About me👋
 
 I am a full-time front-end engineer and I am currently working remotely. I also have a business in Japan, a web service I created. (https://labelmake.jp/).  
-I currently live in Tokyo, but would like to live in the US if I get the chance someday.
+I currently live in Tokyo, Japan but would like to live in California, USA,  if I get the chance someday.
 
 Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/hand-dot/). I am always happy to talk, answer questions, or discuss new opportunities.
 
