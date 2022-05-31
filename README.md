@@ -1,7 +1,7 @@
 ## About me👋
 
 I am a full-time front-end engineer and currently working remotely. I also have a business in Japan, a web service I created. (https://labelmake.jp/).  
-Currently, I am based in Tokyo, Japan, but I would like to work in California, USA if I get the chance someday.
+Currently, I am based in Tokyo, Japan, but I would like to work in other contry, if I get the chance someday.
 
 Please feel free to reach out via email or connect with me on [LinkedIn](https://www.linkedin.com/in/hand-dot/). I am always happy to talk, answer questions, or discuss new opportunities.
 
